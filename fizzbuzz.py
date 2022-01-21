@@ -4,9 +4,9 @@ import sys
 def fizbuzz(n):
     for i in range(1, n+1):
         if i % 3 == 0 and i % 5 == 0:
-            print ('FizzBuzz')
+            print ('BizzBuzz')
         elif i % 3 == 0:
-            print ('Fizz')
+            print ('Bizz') #bizz
         elif i % 5 == 0:
             print ('Buzz')
         else:
