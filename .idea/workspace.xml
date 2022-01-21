@@ -1,14 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="08b7436a-34bb-4e7b-820c-81c9188b881c" name="Changes" comment="" />
+=======
     <list default="true" id="9ed9875c-3b92-4cd7-8c47-5e5372bfdd6f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
+>>>>>>> 2c234ff6dad8197078c74bda0053aaff33ea247c
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="240OkG7LRHJvojCe0b5TgMM34dg" />
+=======
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -21,6 +31,7 @@
   </component>
   <component name="ProjectId" id="240GMgAcOymv2FwFNJz7IXCeJot" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+>>>>>>> 2c234ff6dad8197078c74bda0053aaff33ea247c
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -30,6 +41,16 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08b7436a-34bb-4e7b-820c-81c9188b881c" name="Changes" comment="" />
+      <created>1642764179381</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642764179381</updated>
+=======
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="recit1" />
@@ -61,6 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1642760044793</updated>
+>>>>>>> 2c234ff6dad8197078c74bda0053aaff33ea247c
     </task>
     <servers />
   </component>
