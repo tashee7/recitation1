@@ -4,11 +4,11 @@ import sys
 def fizbuzz(n):
     for i in range(1, n+1):
         if i % 3 == 0 and i % 5 == 0:
-            print ('BizzBuzz')
+            print ('BizzFuzz')
         elif i % 3 == 0:
             print ('Bizz') #Bizz
         elif i % 5 == 0:
-            print ('Buzz')
+            print ('Fuzz') #Fuzz
         else:
             print (i)
 
